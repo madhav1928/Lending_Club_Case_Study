@@ -33,14 +33,16 @@ Identifying these risky applicants is crucial for reducing credit loss. This cas
 
 
 ## Conclusions
-Applicants with a loan term of 60 months are more likely to default.
-Higher interest rate loans are associated with a higher likelihood of default.
-Applicants with home ownership listed as “OTHER” have a higher default rate, while those with “NONE” show no defaults.
-Surprisingly, income-verified applicants default more frequently, suggesting a possible issue with the verification process.
-Loans for “educational” or “small business” purposes have a significantly higher default rate, between 8% and 17%.
-Missing employment length data correlates with a higher default rate for 60-month loans.
-Applicants with a 60-month term and verification statuses of “Source Verified” or “Verified” show higher default rates.
-Applicants with no specified employment length and educational loan purposes have a higher default rate.
+
+- Cease approving loans where the amount-to-income ratio exceeds 30%.
+
+- Reduce the number of approvals for loans designated for small businesses.
+
+- Halt approvals for high-value loans when the revolving line utilization rate is greater than 75%.
+
+- Stop approving loans for individuals with a prior bad credit record, or at least refrain from approving high-value loans for them.
+
+- Implement higher interest rates for loans with a debt-to-income ratio greater than 20%.
 
 ## Technologies Used
 Python 3.x
